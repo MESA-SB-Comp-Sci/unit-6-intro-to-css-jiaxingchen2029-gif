@@ -1,0 +1,49 @@
+h1{
+    color:orangered;
+}
+
+h1{
+    color:aquamarine;
+}
+
+footer{
+    background-color: wheat;
+}
+
+footer{
+    color:black;
+}
+
+footer{
+  text-decoration-line: overline;
+  text-decoration-color: black;
+}
+
+footer{
+  text-decoration-line: underline;
+  text-decoration-color: black;
+}
+
+main{
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+}
+
+h1 {
+  text-shadow: 2px 2px 5px orangered;
+}
+
+body {
+  background-image: url("/photos/avin-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+h1 {
+  text-align: center;
+}
+
+body{
+  text-align: center;
+}
+
